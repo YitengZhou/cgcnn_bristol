@@ -10,8 +10,6 @@ This project details the development and optimisation of the CGCNN model, predic
 
 ## Datasets
 
-![dataset](dissertation/image/dataset.jpg)
-
 ### [Energy dataset](dissertation/datasets/energy) - formation, absolute, fermi, bandgap
 
 ### [Elastic dataset](dissertation/datasets/elastic) - bulk, shear modulus, Poisson ratio, elastic anisotropy
