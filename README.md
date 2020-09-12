@@ -12,11 +12,10 @@ This project details the development and optimisation of the CGCNN model, predic
 
 ![dataset](dissertation/image/dataset.jpg)
 
-### [Energy dataset - formation, absolute, fermi, bandgap](dissertation/datasets/energy)
+### [Energy dataset](dissertation/datasets/energy) - formation, absolute, fermi, bandgap
 
-### Elastic dataset - bulk, shear modulus, Poisson ratio, elastic anisotropy](dissertation/datasets/elastic/readme.md)
+### [Elastic dataset](dissertation/datasets/elastic/readme.md) - bulk, shear modulus, Poisson ratio, elastic anisotropy
 
-### Dielectric dataset - dielectric constant, electro-optic coefficient, ferroelectricity](dissertation/datasets/elastic/readme.md)
+### [Dielectric dataset](dissertation/datasets/dielectric/readme.md) - dielectric constant, electro-optic coefficient, ferroelectricity
 
-### Piezoelectric dataset - piezoelectric modulus (dissertation/datasets/elastic/readme.md)
-
+### [Piezoelectric dataset](dissertation/datasets/piezoelectric/readme.md) - piezoelectric modulus
