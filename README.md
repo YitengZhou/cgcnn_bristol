@@ -26,9 +26,9 @@ This project details the development and optimisation of the CGCNN model, predic
 
 ### [CGCNN model](dissertation/code/cgcnn)
 
-## Pre-train mCGCNN model
+## [Pre-train mCGCNN models](dissertation/pre-train\ mCGCNN)
 
-[Eleven mCGCNN models](dissertation/pre-train\ mCGCNN) could predict:
+Eleven mCGCNN models could predict:
 
 - formation energy - mCGCNN-formation
 
