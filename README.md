@@ -26,7 +26,7 @@ This project details the development and optimisation of the CGCNN model, predic
 
 ### [CGCNN model](dissertation/code/cgcnn)
 
-## [Pre-train mCGCNN models](dissertation/pre-train\ mCGCNN)
+## [Pre-train mCGCNN models](dissertation/pre-train_mCGCNN)
 
 Eleven mCGCNN models could predict:
 
